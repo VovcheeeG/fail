@@ -1,0 +1,152 @@
+body {
+    background-image: linear-gradient(to right,
+            #000 0%,
+            #000 55%,
+            #57B8FF 55%,
+            #57B8FF 100%)
+}
+.logo {
+    position: absolute;
+    left: 100px;
+    top: 20px;
+}
+.header  {
+    font-family: 'Orbitron';
+    font-style: normal;
+    position: absolute;
+    height: 26px;
+    left: 530px;
+    right: 22.9%;
+    top: 18px;
+    font-size: 16px;
+}
+.header li {
+    display: inline;
+    padding: 40px;
+}
+.link {
+    color: #fff;
+    text-decoration: none;
+}
+.link a:hover {
+    color: #FAC422;
+}
+.contact {
+    border: 1px solid #fff;
+    font-family: 'Orbitron';
+    font-style: normal;
+    position: absolute;
+    font-size: 16px;
+    padding: 16px 31px;
+    left: 1650px;
+    top: 20px;
+}
+.batton {
+    position: absolute;
+    top: 25px;
+    left: 1550px;
+}
+.zero {
+    position: absolute;
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-size: 11px;
+    border-radius: 9px;
+    background: #fff;
+    color: #000;
+    height: 18px;
+    width: 21px;
+    font-size: 11px;
+    text-align: center;
+    left: 1580px;
+    top: 20px;
+    line-height: 0,1px;
+
+}
+.text {
+    position: absolute;
+    left: 100px;
+    top: 300px;
+
+}
+.img {
+    position: absolute;
+    left: 1000px;
+    top: 250px;
+}
+.fire {
+    position: absolute;
+    left: 90px;
+    top: 250px;
+}
+.future {
+    position: absolute;
+    font-family: 'Orbitron';
+    font-style: normal;
+    color: #57B8FF;
+    font-size: 16px;
+    left: 130px;
+    top: 240px;
+}
+.networks {
+    position: absolute;
+    font-family: 'Orbitron';
+    font-style: normal;
+    color: #80858F;
+    font-size: 12px;
+    line-height: 70px;
+    left: -10px;
+    top: 370px;
+    
+    
+}
+.networks2  {
+    text-decoration: none;
+    color: #80858F;
+    writing-mode:  vertical-rl;
+    transform: rotate(-180deg);
+    
+
+}
+.lorem {
+    position: absolute;
+    width: 600px;
+    height: 56px;
+    color: #999;
+    font-style: normal;
+    font-family: 'Orbitron';
+    font-size: 18px;
+    top: 590px;
+    left: 100px;
+}
+.Kub {
+    border: 1px solid #57B8FF;
+    color: #57B8FF;
+    text-decoration: none;
+    left: 100px;
+    width: 180px;
+    top: 680px;
+    position: absolute;
+    background: #57B8FF;
+    height: 60px;
+
+}
+.explore {
+    position: absolute;
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-size: 17px;
+    left: 28px;
+    width:  140px;
+    top: 18px;
+    text-decoration: none;
+    color: #fff
+}
+.set {
+    position: absolute;
+    font-family: 'Orbitron';
+    color: #fff;
+    height: 28px;
+    top: 684px;
+    left: 330px;
+}
